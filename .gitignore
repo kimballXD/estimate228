@@ -1,0 +1,12 @@
+
+*
+!.git/
+!.gitignore
+!.ipynb_checkpoints/
+!228.py
+!cleanCompenData.py
+!cleanCompenData.txt
+!compen.py
+!compensate.txt
+!data.txt
+!estimate228.ipynb
